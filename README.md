@@ -3,9 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitv97&label=Profile%20views&color=0e75b6&style=flat" alt="rohitv97" /> </p>
 
-<p align="left"> <img src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="rohitv97-img" style="height=80px; width=80px" /> </p>
+<p align="left"> <img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" alt="rohitv97-img1" /> </p>
 
-![rv97image](https://github.com/user-attachments/assets/b07f0cdc-f7bd-40d9-aad9-b2293981195e)
 
 
 - 🌱 I’m currently learning **Bioinformatics and D3.js**
