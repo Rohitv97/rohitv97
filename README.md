@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitv97&label=Profile%20views&color=0e75b6&style=flat" alt="rohitv97" /> </p>
 
-<p align="left"> <img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" alt="rohitv97-img1" /> </p>
-
-
+<p align="left"> <img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" alt="rohitv97-img1" width="150" /> </p>
 
 - 🌱 I’m currently learning **Bioinformatics and D3.js**
 
@@ -29,4 +27,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitv97&" alt="rohitv97" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohitv97" alt="rohitv97" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohitv97&rank=-C" alt="rohitv97" /></a> </p>
