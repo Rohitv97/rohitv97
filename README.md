@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" alt="rohitv97-img1" width="400" /> </p>
 
-<p align="left"> <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="rohitv97-img2" width="400" /> </p>
+<p align="right"> <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="rohitv97-img2" width="400" /> </p>
 
 - 🌱 I’m currently learning **Bioinformatics and D3.js**
 
